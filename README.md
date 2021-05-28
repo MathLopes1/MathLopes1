@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi,👋My name is Matheus, i'm from Brazil🌎🇧🇷
+
+- I'm a student of information systems and a computer technician.💻
+- Studying web development - HTML, CSS - and Java, C.🛠
+ ###### WELCOME📍
 
 <!--
 **MathLopes1/MathLopes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
