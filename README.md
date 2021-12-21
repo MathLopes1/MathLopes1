@@ -1,8 +1,6 @@
 ### Hi,👋My name is Matheus, i'm from Brazil🌎
  ###### WELCOME📍
 
-- I'm a student of information systems and a computer technician.💻
-
 
 <!--
 **MathLopes1/MathLopes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
