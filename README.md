@@ -3,7 +3,6 @@
 
 <img height="250" width="850" src="https://user-images.githubusercontent.com/83426602/148673032-78ed82b0-7074-417d-9da5-c183eb915789.gif">
 
-<img src="https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif"  width="130" align="right" alt="yoda">
 
 ## ✨Stats
 
@@ -15,6 +14,8 @@
   
   <br>
 
+  <img src="https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif"  width="200" align="right" alt="mario">
+  
 ## ⚡ Skills
   
 <div style="display: inline_block">
