@@ -3,6 +3,9 @@
 
 <img height="250" width="850" src="https://user-images.githubusercontent.com/83426602/148673032-78ed82b0-7074-417d-9da5-c183eb915789.gif">
 
+- 👨🏽‍💻 Information system | **Uninassau**  
+- 💻 Node.js Development Intern | **CompassoUol**
+- ☕ Java!!
 
 ## ✨Stats
 
