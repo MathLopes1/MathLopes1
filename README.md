@@ -5,7 +5,7 @@
 
 - 👨🏽‍💻 Information system | **Uninassau**  
 - 💻 Node.js Development Intern | **CompassoUol**
-- ☕ Java!!
+- ☕ Java
 
 ## ✨Stats
 
