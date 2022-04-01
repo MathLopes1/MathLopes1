@@ -3,8 +3,8 @@
 
 <img height="250" width="850" src="https://user-images.githubusercontent.com/83426602/148673032-78ed82b0-7074-417d-9da5-c183eb915789.gif">
 
-- 👨🏽‍💻 Information system | **Uninassau**  
-- ☕ Java
+- 👨🏽‍💻 I am a student of information systems
+- ☕ Study development using C#, Java, TypeScript and JavaScript.
 
 ## ✨Stats
 
@@ -35,6 +35,6 @@
  
 <div> 
   <a href = "mailto:iamatheuslopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/matheus-lopes-05b85b1a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maths-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
