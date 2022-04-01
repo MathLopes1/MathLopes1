@@ -1,7 +1,7 @@
 
 ## Hello my name is Matheus. I'm a systems developer.👨🏽‍💻
 
-<img height="250" width="850" src="https://user-images.githubusercontent.com/83426602/148673032-78ed82b0-7074-417d-9da5-c183eb915789.gif">
+<img height="500" width="1000" src="https://user-images.githubusercontent.com/70352508/161332135-387b9134-dbae-46d5-a9e2-ca8d8d96a05f.gif">
 
 - 👨🏽‍💻 I am a student of information systems
 - ☕ Study development using C#, Java, TypeScript and JavaScript.
