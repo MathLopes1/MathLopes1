@@ -1,7 +1,6 @@
-
-
 <img height="500" width="1000" src="https://user-images.githubusercontent.com/70352508/161332135-387b9134-dbae-46d5-a9e2-ca8d8d96a05f.gif">
 
+### Hello dev, welcome to my github.
 - 🌎 I'm from Pernambuco / Brazil
 - 💻 **Languages:** Java, C#, TypeScript and JavaScript
 - 🔧 **Tools:** Visual Studio Code
@@ -14,7 +13,7 @@
 </div>
   
   
-## ✉ Social NetWorks
+## ✉ Social Networks
  
 <div> 
   <a href = "mailto:iamatheuslopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
