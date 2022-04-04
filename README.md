@@ -1,4 +1,4 @@
-<img height="500" width="800" src="https://user-images.githubusercontent.com/70352508/161332135-387b9134-dbae-46d5-a9e2-ca8d8d96a05f.gif">
+<img height="300" width="850" src="https://user-images.githubusercontent.com/70352508/161601004-f6d9d450-2bfd-4e2d-85dd-b1155dd832f4.gif">
 
 ### Hello dev, welcome to my github.
 - 🌎 I'm from Brazil
