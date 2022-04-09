@@ -1,7 +1,7 @@
 <img height="300" width="850" src="https://user-images.githubusercontent.com/70352508/161601004-f6d9d450-2bfd-4e2d-85dd-b1155dd832f4.gif">
 
 ### Hello dev, welcome to my github.
-- 🌎 I'm from Brazil
+- 🌎 I'm from Brazil.
 - 💻 **Languages:** Java, C#, TypeScript and JavaScript.
 - 🔧 **Tools:** Visual Studio Code.
 - 🎓 **Academic:** Information systems student
