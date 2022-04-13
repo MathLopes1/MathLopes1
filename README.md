@@ -4,7 +4,7 @@
 - 🌎 I'm from Brazil.
 - 💻 **Languages:** Java, C#, TypeScript and JavaScript.
 - 🔧 **Tools:** Visual Studio Code.
-- 🎓 **Academic:** Information systems student
+- 🎓 **Academic:** Information systems student.
 
 <div align="center">
   <a href="https://github.com/MathLopes1">
