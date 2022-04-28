@@ -2,7 +2,7 @@
 
 ### Hello dev, welcome to my github.
 - 🌎 I'm from Brazil.
-- 💻 **Languages:** Java, C#, TypeScript and JavaScript.
+- 💻 **Languages:** Java, C#, TypeScript and JavaScript
 - 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, Git.
 - 🎓 **Academic:** Information systems student.
 
