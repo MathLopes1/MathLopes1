@@ -23,7 +23,7 @@
 - 💻 **Languages:** Java, TypeScript and JavaScript.
 - 💻 **Frameworks:** NestJs, Spring Boot and Express.
 - 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, Git.
-- 🎓 **Academic:** Information systems student.
+- 🎓 **Academic:** Information systems student..
 
 <div align="center">
   <a href="https://github.com/MathLopes1">
