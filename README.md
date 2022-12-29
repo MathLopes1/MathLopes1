@@ -1,4 +1,4 @@
-<img src="https://github.com/MathLopes1/MathLopes1/blob/main/github.gif">
+<img width="900px" height="300px"  src="https://user-images.githubusercontent.com/70352508/209995771-1cd35880-a976-45fc-a6f5-0665d9e00e06.gif">
 <h1 align="center">
 <p>
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
