@@ -20,7 +20,7 @@
 </p>
 
 ## 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-- 🌎 I'm from Brazil..
+- 🌎 I'm from Brazil.
 - 💻 **Languages:** Java, TypeScript and JavaScript..
 - 💻 **Frameworks:** NestJs, Spring Boot and Express..
 - 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, Git.
