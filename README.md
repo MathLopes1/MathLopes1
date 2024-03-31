@@ -23,7 +23,7 @@
 - 🌎 I'm from Brazil..
 - 💻 **Languages:** Java, TypeScript and JavaScript..
 - 💻 **Frameworks:** NestJs, Spring Boot and Express..
-- 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, Git.
+- 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, IntelliJ IDEA and Git.
 - 🎓 **Academic:** Information systems student..
 - 🏢 **Profissional:** Software Developer at MV
 
