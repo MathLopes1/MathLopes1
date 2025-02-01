@@ -24,7 +24,7 @@
 - 💻 **Languages:** Java, TypeScript and JavaScript..
 - 💻 **Frameworks:** NestJs, Spring Boot and Express..
 - 🔧 **Tools:** Visual Studio Code, Eclipse, Spring Tool, IntelliJ IDEA and Git.
-- 🎓 **Academic:** Information systems student..
+- 🎓 **Academic:** Degree in information systems and computer technician, postgraduate degree in software engineering.
 - 🏢 **Profissional:** Software Developer at SmartSpace
 
 <div align="center">
